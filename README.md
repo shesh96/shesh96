@@ -1,117 +1,128 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Shesh%20Ram&fontSize=40&fontColor=ffffff&animation=fadeIn" />
-</p>
+<h1 align="center">
+  Hi 👋, I'm Shesh Rawat
+</h1>
 
-<h3 align="center">MERN Full Stack & Frontend Developer 🚀</h3>
+<h3 align="center">
+  MERN Full Stack & Frontend Developer
+</h3>
 
 <p align="center">
-  I build clean, scalable, and user-friendly web applications.<br/>
-  Passionate about React, performance, and real-world problem solving.
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&center=true&vCenter=true&width=700&lines=Frontend-Focused+MERN+Developer;React+%7C+Node+%7C+MongoDB;Strong+in+DSA%2C+OOP%2C+SQL%2C+CN;Building+Clean%2C+Scalable+Web+Applications" />
 </p>
 
 ---
 
-## 👋 About Me
-
-- 💻 MERN Full Stack & Frontend Developer  
-- 🧠 Strong in **JavaScript, React, REST APIs, and UI performance**
-- 🏗️ Experience building **production-ready web apps**
-- 🤖 Worked on **AI-integrated applications**
-- 📍 Based in India | Open to great opportunities
+<p align="center">
+I’m a passionate software developer from India with hands-on experience in building <b>modern, responsive, and scalable web applications</b>.  
+I enjoy working on frontend architecture, improving UI performance, and building reliable full-stack systems using the MERN stack.
+</p>
 
 ---
 
-## 🛠️ Tech Stack & Skills
+## 🧠 Languages & Core Fundamentals
 
-### 🌐 Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,js,sql&perline=6" />
 </p>
 
-- HTML5, CSS3, JavaScript (ES6+)
-- React.js (Hooks, Components, State Management)
-- Responsive Design & Cross-Browser Compatibility
-- UI Polishing, Debugging & Performance Optimization
+- C, C++
+- JavaScript (ES6+)
+- SQL
+- Data Structures & Algorithms
+- Object-Oriented Programming
+- Computer Networks
 
-### ⚙️ Backend
+---
+
+## 🌐 Frontend Development
+
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap&perline=6" />
+</p>
+
+- HTML5, CSS3
+- React.js (Hooks, Components, State)
+- Responsive & Mobile-First Design
+- UI Debugging & Performance Optimization
+- Cross-Browser Compatibility
+
+---
+
+## ⚙️ Backend & Database
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&perline=6" />
 </p>
 
 - Node.js & Express.js
 - RESTful APIs
-- MongoDB & Database Optimization
+- MongoDB
 - Authentication (OAuth 2.0, SSO)
-
-### 🧠 Other Skills
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,linux,cpp,c" />
-</p>
-
-- Data Structures & Algorithms
-- Object Oriented Programming
-- Git & GitHub
-- Generative AI Integration
-- Performance & Scalability
+- API Integration & Optimization
 
 ---
 
-## 🚀 Projects
+## ☁️ Tools, Cloud & Others
 
-### ✅ Task Manager (MERN Stack)
-- Full stack task management application
-- Built React UI with clean UX
-- Node.js + Express backend with MongoDB
-- Improved query response time and performance
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,azure,linux&perline=6" />
+</p>
 
-### 🎬 CineVerse
-- React-based movie platform
-- API integration for real-time data
-- Reusable components & optimized UI
-- Focus on user experience and accessibility
+- Git & GitHub
+- Azure (Basics)
+- Linux Environment
+- MERN Stack Architecture
+- Generative AI Integration (Project Experience)
 
-### 🤖 AI-Integrated Platform (DSO-Genie-AI)
-- Responsive React frontend
-- OAuth authentication (Google, GitHub, GitLab)
-- Generative AI chatbot integration
-- Scalable backend APIs
+---
+
+## 🚀 Projects Highlights
+
+### 🗂️ Task Manager (MERN Stack)
+- Built a full-stack task management system using React, Node.js, Express, and MongoDB  
+- Designed clean UI and optimized backend APIs  
+- Improved database performance and user workflow  
+
+### 🎬 CineVerse (React App)
+- Developed a movie browsing platform with real-time API data  
+- Built reusable components and optimized rendering  
+- Focused on UX, responsiveness, and accessibility  
+
+### 🤖 DSO-Genie-AI (Industry Project)
+- Built responsive React frontend using Tailwind CSS  
+- Implemented OAuth authentication  
+- Integrated a Generative AI chatbot into workflows  
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shesh96&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shesh96&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shesh96&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=shesh96&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 🌐 Connect With Me
+## 🤝 Connect With Me
 
-<p>
+<p align="center">
   <a href="https://www.linkedin.com/in/shesh96">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:shivaay9670@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://github.com/shesh96">
-    <img src="https://skillicons.dev/icons?i=github" />
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <b>Always learning. Always building. 🚀</b>
-</p>
-
-<!-- Footer -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
+<b>Open to Frontend / MERN / Software Engineer opportunities 🚀</b>
 </p>
