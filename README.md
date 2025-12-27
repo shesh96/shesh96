@@ -1,6 +1,9 @@
 <h1 align="center">
   Hi 👋, I'm Shesh Rawat
 </h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Shesh%20Ram&fontAlign=50&fontAlignY=40&fontSize=42&color=gradient&animation=fadeIn" />
+</p>
 
 <h3 align="center">
   MERN Full Stack & Frontend Developer
@@ -13,7 +16,7 @@
 ---
 
 <p align="center">
-I’m a passionate software developer from India with hands-on experience in building <b>modern, responsive, and scalable web applications</b>.  
+I’m a passionate MERN Full Stack developer from India with 1+ year of hands-on experience in building <b>modern, responsive, and scalable web applications</b>.  
 I enjoy working on frontend architecture, improving UI performance, and building reliable full-stack systems using the MERN stack.
 </p>
 
@@ -97,12 +100,10 @@ I enjoy working on frontend architecture, improving UI performance, and building
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shesh96&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
+
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=shesh96&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shesh96&theme=tokyonight" />
 </p>
 
 ---
@@ -122,7 +123,12 @@ I enjoy working on frontend architecture, improving UI performance, and building
 </p>
 
 ---
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
+</p>
 
 <p align="center">
-<b>Open to Frontend / MERN / Software Engineer opportunities 🚀</b>
+<b>Open to Full Stack / MERN / Software Engineer opportunities 🚀</b>
 </p>
+
+
