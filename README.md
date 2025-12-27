@@ -2,7 +2,7 @@
   Hi 👋, I'm Shesh Rawat
 </h1>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Shesh%20Ram&fontAlign=50&fontAlignY=40&fontSize=42&color=gradient&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Shesh%20Rawat&fontAlign=50&fontAlignY=40&fontSize=42&color=gradient&animation=fadeIn" />
 </p>
 
 <h3 align="center">
@@ -100,10 +100,10 @@ I enjoy working on frontend architecture, improving UI performance, and building
 
 ## 📊 GitHub Stats
 
-
-
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shesh96&theme=tokyonight" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=shesh96&layout=compact&theme=tokyonight" 
+  />
 </p>
 
 ---
