@@ -107,16 +107,22 @@ I enjoy working on frontend architecture, improving UI performance, and building
 - Integrated a Generative AI chatbot into workflows  
 
 ---
+## 📊 GitHub Stats
 
-# 📊 GitHub Stats:
+![Followers](https://img.shields.io/github/followers/shesh96?style=for-the-badge)
+![Stars](https://img.shields.io/github/stars/shesh96?style=for-the-badge)
+![Public Repos](https://img.shields.io/github/repositories/shesh96?style=for-the-badge)
+![Forks](https://img.shields.io/github/forks/shesh96/IMDbClone?style=for-the-badge)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=shesh96&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br>
+![Commits](https://img.shields.io/badge/Commits-Live-green?style=for-the-badge)
+![Pull Requests](https://img.shields.io/badge/PRs-Live-orange?style=for-the-badge)
+![Issues](https://img.shields.io/badge/Issues-Live-blue?style=for-the-badge)
 
-![](https://github-readme-stats.vercel.app/api?username=shesh96&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=shesh96&theme=dark)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=shesh96&theme=dark&hide_border=false)
+![Profile Views](https://komarev.com/ghpvc/?username=shesh96&style=flat-square)
 
----
+
 
 ## 🤝 Connect With Me
 
