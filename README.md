@@ -86,10 +86,20 @@ I enjoy working on frontend architecture, improving UI performance, and building
 - Designed clean UI and optimized backend APIs  
 - Improved database performance and user workflow  
 
+🔗 **Live Demo:** https://task-manager-frontend-eight-sand.vercel.app/  
+📂 **GitHub Repo:** https://github.com/shesh96/Task_Manager_Application  
+
+---
+
 ### 🎬 CineVerse (React App)
 - Developed a movie browsing platform with real-time API data  
 - Built reusable components and optimized rendering  
 - Focused on UX, responsiveness, and accessibility  
+
+🔗 **Live Demo:** https://im-db-clone-plum.vercel.app/  
+📂 **GitHub Repo:** https://github.com/shesh96/IMDbClone  
+
+---
 
 ### 🤖 DSO-Genie-AI (Industry Project)
 - Built responsive React frontend using Tailwind CSS  
@@ -98,13 +108,13 @@ I enjoy working on frontend architecture, improving UI performance, and building
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats:
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=shesh96&layout=compact&theme=tokyonight" 
-  />
-</p>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=shesh96&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br>
+
+![](https://github-readme-stats.vercel.app/api?username=shesh96&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=shesh96&theme=dark&hide_border=false)
 
 ---
 
@@ -130,5 +140,3 @@ I enjoy working on frontend architecture, improving UI performance, and building
 <p align="center">
 <b>Open to Full Stack / MERN / Software Engineer opportunities 🚀</b>
 </p>
-
-
