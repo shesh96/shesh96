@@ -28,7 +28,7 @@ I enjoy working on frontend architecture, improving UI performance, and building
   <img src="https://skillicons.dev/icons?i=c,cpp,js,sql&perline=6" />
 </p>
 
-- C, C++
+- C, C++, Python
 - JavaScript (ES6+)
 - SQL
 - Data Structures & Algorithms
